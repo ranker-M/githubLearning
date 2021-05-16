@@ -1,10 +1,10 @@
 # Learning ilk Repo
 
-Bu repo [learning](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) githubu öğrenmek için oluşturdugum ilk repo. Sadece README dosyası ve commit denemek için index.html dosyası var.
+This repo [learning](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) is first repo to learn github. Only README and index.html files exist to learn commit and push requests.
 
 ## Installation
 
-Projeyi klonlamak icin asagidakı kodu github bash terminaline yazın.
+To clone repo write the code below to github bash terminal.
 
 ```
 git clone https://github.com/ranker-M/githubLearning.git
@@ -12,7 +12,7 @@ git clone https://github.com/ranker-M/githubLearning.git
 
 ## Usage
 
-Kodu visiual studio kodda açmak için github bash'e.Dosyanızın masaüstünde oldugunu varsayarak.
+To open files in visiual studio code write the commands below to github bash terminal.
 
 ```
 cd Desktop/githubLearning
@@ -21,7 +21,7 @@ code .
 
 ## Contributing
 
-Proje private oldugundan diger kisilere kapalıdır.
+This project is private. It is close to any other user.
 
 ## License
 
