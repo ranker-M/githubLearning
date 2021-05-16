@@ -4,7 +4,7 @@ Bu repo [learning](https://docs.github.com/en/github/creating-cloning-and-archiv
 
 ## Installation
 
-Projeyi klonlamak icin
+Projeyi klonlamak icin asagidakı kodu github bash terminaline yazın.
 
 ```
 git clone https://github.com/ranker-M/githubLearning.git
