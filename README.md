@@ -1,4 +1,4 @@
-# Learning ilk Repo
+# Learning First Repo
 
 This repo,[githubLearning](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository), is my first repo to learn github. Only README and index.html files exist to learn commit and push requests.
 
